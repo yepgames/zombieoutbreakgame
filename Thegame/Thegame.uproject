@@ -57,6 +57,10 @@
 		{
 			"Name": "VRExpansionPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenXRExpansionPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
