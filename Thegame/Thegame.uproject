@@ -49,18 +49,6 @@
 				"Win64",
 				"Android"
 			]
-		},
-		{
-			"Name": "OpenVRExpansionPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "VRExpansionPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "OpenXRExpansionPlugin",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
